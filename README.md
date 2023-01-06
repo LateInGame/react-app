@@ -1,3 +1,8 @@
+
+Hello ! I'm a junior dev and this is a react portfolio i saw on Youtube (https://www.youtube.com/watch?v=hYv6BM2fWd8&t=127s&ab_channel=webdecoded). I changed it to match my personal info and taste! Its a great way to learn the flow of building a React App and new code tricks :D 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,vscode,youtube)](https://skillicons.dev)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
