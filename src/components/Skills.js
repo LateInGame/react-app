@@ -5,7 +5,7 @@ import "react-multi-carousel/lib/styles.css";
 import meter1 from "../assets/img/meter1.svg";
 import meter2 from "../assets/img/meter2.svg";
 import meter3 from "../assets/img/meter3.svg";
-import colorSharp from "../assets/img/color-sharp.png";
+// import colorSharp from "../assets/img/color-sharp.png";
 
 export const Skills = () => {
   const responsive = {
@@ -37,7 +37,9 @@ export const Skills = () => {
               <h2>
                 Skills
               </h2>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+              <p> HTML, CSS, SCSS, Bootstrap,
+                  JavaScript ES6, React, SQL, Git, GitHub, Heroku and Ruby on Rails. Designed, implemented and deployed
+                  to production a clone of AirBnB and a Rails app My Park: https://my-park-zda.herokuapp.com/</p>
               <Carousel responsive={responsive} infinite={true} className="skills-slider">
                 <div className="item">
                   <img src={meter1} alt="Image" />
@@ -60,7 +62,7 @@ export const Skills = () => {
           </Col>
         </Row>
       </Container>
-      <img className="background-image-left" alt="colorsharp" src={colorSharp} />
+      {/* <img className="background-image-left" alt="colorsharp" src={colorSharp} /> */}
     </section>
   )
 
