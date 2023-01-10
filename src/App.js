@@ -5,6 +5,7 @@ import { Skills } from './components/Skills.js';
 import { Projects } from './components/Projects.js';
 import { Contact } from './components/Contact.js';
 import { Footer } from './components/Footer.js';
+import { React } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 

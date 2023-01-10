@@ -5,6 +5,7 @@ import projImg1 from "../assets/img/landing-page-mypark2.png";
 import projImg2 from "../assets/img/mypark-map2.png";
 import projImg3 from "../assets/img/mypark-map5.png";
 import projImg4 from "../assets/img/mypark-zoom.png";
+import { React } from 'react';
 
 export const Projects = () => {
 
